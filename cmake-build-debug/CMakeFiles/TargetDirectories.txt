@@ -1,0 +1,3 @@
+C:/Users/varin/Documents/Clion/2048/cmake-build-debug/CMakeFiles/2048.dir
+C:/Users/varin/Documents/Clion/2048/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/varin/Documents/Clion/2048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
